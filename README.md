@@ -6,7 +6,7 @@ Front End Developer
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [hi@joaovsa.dev](mailto:hi@joaovsa.dev)
-* 🚀  I'm currently working on [Escale](http://escale.com)
+* 🚀  I'm currently working on [Porto](https://portoseguro.com.br)
 * 🤝  I'm open to collaborating on Open source projects
 
 <a href="https://www.twitter.com/jvsa7_" target="_blank" rel="noreferrer"><img
